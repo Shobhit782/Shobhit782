@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghav1507&show_icons=true&hide=contribs,prs&theme=radical" alt="Raghav1507">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shobhit782&show_icons=true&hide=contribs,prs&theme=radical" alt="Shobhit782">
 </div>
 
 <br>
