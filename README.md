@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **AI & ML , python , html-css, Flutter**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **shobhitchoudhury8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
