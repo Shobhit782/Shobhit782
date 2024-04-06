@@ -10,15 +10,15 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Shobhit Chaudary</h1>
-<h3 align="center">A passionate AI & ML Enthusiast, Web Developer and Trader</h3>
+<h1 align="center">Hi 👋, I'm Shobhit Choudhury</h1>
+<h3 align="center">A passionate Web Developer and DSA enthusiast</h3>
 
 <img align ="right" alt ="coding" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width ="400">
 
 
-- 🌱 I’m currently learning **Flutter , C++ , java **
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **AI & ML , python , html-css, Flutter**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **shobhitchoudhury8@gmail.com**
 
